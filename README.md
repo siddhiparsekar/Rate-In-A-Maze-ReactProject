@@ -28,7 +28,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Below are some of the visuals:
+Below are some of the visuals:</br>
 NOTE: Green colored cells represent the path from the rat to the cheese!
 ![image](https://user-images.githubusercontent.com/111981040/210766552-f9437fb5-0260-46bf-9084-74e444f60b11.png)
 ![image](https://user-images.githubusercontent.com/111981040/210766625-548caf39-d6b4-4dbb-902f-d320c2c35e31.png)
