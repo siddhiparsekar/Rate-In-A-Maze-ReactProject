@@ -1,6 +1,6 @@
 # Rat in a maze app in React js using Material UI
 ## I have used 4X4 (2D matrix)
-_ Sorce and destination are at fixed.
+Source and destination are at fixed.
 - Here,source location is [0][0].
 - Destination location is [n-1][n-1].
 - The rat can move right or down only.
